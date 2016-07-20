@@ -1,3 +1,5 @@
+[![Version](https://github.com/applicasuite/applicasuite-test/blob/master/img/badge_version_2.png)](http://www.applicasuite.com)
+
 # applicasuite-test
 Fichiers de test pour **ApplicaSuite**
 Version 1.0.2 _Basic_ et _Medium_.
