@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DONNEES_PROJET">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="VERSION_APPLICA" type="xs:string" minOccurs="0" />
+                <xs:element name="VERSION" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_3" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_4" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_5" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_6" type="xs:string" minOccurs="0" />
+                <xs:element name="NOM_PROJET" type="xs:string" minOccurs="0" />
+                <xs:element name="TYPE_PROJET" type="xs:string" minOccurs="0" />
+                <xs:element name="NOM_PATH" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_8" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_9" type="xs:string" minOccurs="0" />
+                <xs:element name="AUTEUR" type="xs:string" minOccurs="0" />
+                <xs:element name="INDICE" type="xs:string" minOccurs="0" />
+                <xs:element name="DATE_CREATION" type="xs:string" minOccurs="0" />
+                <xs:element name="DATE_MODIFICATION" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_14" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_15" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_16" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_17" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_18" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_19" type="xs:string" minOccurs="0" />
+                <xs:element name="CHAMP_20" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DONNEES_PROJET>
+    <VERSION_APPLICA>2015</VERSION_APPLICA>
+    <VERSION>V0,12</VERSION>
+    <NOM_PROJET>DEMO_1</NOM_PROJET>
+    <TYPE_PROJET>RESAPPLICA</TYPE_PROJET>
+    <NOM_PATH>PROJETS</NOM_PATH>
+    <AUTEUR>PHBE</AUTEUR>
+    <INDICE>0</INDICE>
+    <DATE_CREATION>23/07/2015</DATE_CREATION>
+  </DONNEES_PROJET>
+</NewDataSet>
