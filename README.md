@@ -1,3 +1,5 @@
+[![Version](https://github.com/applicasuite/applicasuite-test/blob/master/img/badge_version_102a.png)](http://www.applicasuite.com)
+
 # applicasuite-test
 Fichiers de test pour **ApplicaSuite**
 Version 1.0.2 _Basic_ et _Medium_.
@@ -9,4 +11,4 @@ Version 1.0.2 _Basic_ et _Medium_.
   * version PostgreSQL
 3. Construction de projet
 
-[Site web ApplicaSuite](http://www.applicasuite.com)
+:globe_with_meridians:  [Site web ApplicaSuite](http://www.applicasuite.com)
