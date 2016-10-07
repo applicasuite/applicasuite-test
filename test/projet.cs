@@ -1,10 +1,18 @@
 ﻿/*
+<<<<<<< HEAD
  * Crée par SharpDevelop.
  * Utilisateur: ApplicaSuite
  * Date: 16/12/2014
  * Heure: 10:17
  *
  * Pour changer ce modèle utiliser Outils | Options | Codage | Editer les en-têtes standards.
+=======
+ * Créé par SharpDevelop.
+ * Utilisateur: ApplicaSuite
+ * Date: 16/12/2014
+ * Heure: 10:17
+ * 
+>>>>>>> origin/master
  */
 
 using System;
