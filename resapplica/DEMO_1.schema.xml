@@ -1,0 +1,1249 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BLK">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BLK_1" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_2" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_3" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_4" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_5" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_6" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_7" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_8" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_9" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_10" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_11" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_12" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_13" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_14" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_15" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_16" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_17" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_18" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_19" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_20" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_21" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_22" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_23" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_24" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_25" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_26" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_27" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_28" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_29" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_30" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_31" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_32" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_33" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_34" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_35" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_36" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_37" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_38" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_39" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_40" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_41" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_42" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_43" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_44" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_45" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_46" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_47" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_48" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_49" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_50" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_51" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_52" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_53" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_54" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_55" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_56" type="xs:string" minOccurs="0" />
+                <xs:element name="BLK_57" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ELT">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ELT_1" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_2" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_3" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_4" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_5" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_6" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_7" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_8" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_9" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_10" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_11" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_12" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_13" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_14" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_15" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_16" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_17" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_18" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_19" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_20" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_21" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_22" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_23" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_24" type="xs:string" minOccurs="0" />
+                <xs:element name="ELT_25" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="INF">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="INF_1" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_2" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_3" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_4" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_5" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_6" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_7" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_8" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_9" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_10" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_11" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_12" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_13" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_14" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_15" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_16" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_17" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_18" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_19" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_20" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_21" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_22" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_23" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_24" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_25" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_26" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_27" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_28" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_29" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_30" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_31" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_32" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_33" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_34" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_35" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_36" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_37" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_38" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_39" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_40" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_41" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_42" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_43" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_44" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_45" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_46" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_47" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_48" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_49" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_50" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_51" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_52" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_53" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_54" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_55" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_56" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_57" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_58" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_59" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_60" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_61" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_62" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_63" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_64" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_65" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_66" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_67" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_68" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_69" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_70" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_71" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_72" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_73" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_74" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_75" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_76" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_77" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_78" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_79" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_80" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_81" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_82" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_83" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_84" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_85" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_86" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_87" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_88" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_89" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_90" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_91" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_92" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_93" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_94" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_95" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_96" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_97" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_98" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_99" type="xs:string" minOccurs="0" />
+                <xs:element name="INF_100" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BLK>
+    <BLK_1>JDB BT</BLK_1>
+    <BLK_2>315</BLK_2>
+    <BLK_3>210</BLK_3>
+    <BLK_4>JDB1</BLK_4>
+    <BLK_5 />
+    <BLK_6>JDB BT</BLK_6>
+    <BLK_7>JEU DE BARRES BT</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>jdbBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>DISJONCTEUR BT</BLK_1>
+    <BLK_2>405</BLK_2>
+    <BLK_3>210</BLK_3>
+    <BLK_4>DJ_0003</BLK_4>
+    <BLK_5>400</BLK_5>
+    <BLK_6>DISJONCTEUR BT</BLK_6>
+    <BLK_7>DEPART INTER OU DISJ / 400A - 1250A / FIXE</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>disjBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24>Magnetothermique</BLK_24>
+    <BLK_25>400</BLK_25>
+    <BLK_26>400</BLK_26>
+    <BLK_27>6000</BLK_27>
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>LIAISON BT</BLK_1>
+    <BLK_2>405</BLK_2>
+    <BLK_3>270</BLK_3>
+    <BLK_4>XXX01</BLK_4>
+    <BLK_5>4G120</BLK_5>
+    <BLK_6>LIAISON</BLK_6>
+    <BLK_7>CABLE BT</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>liaison</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>INTERRUPTEUR BT</BLK_1>
+    <BLK_2>405</BLK_2>
+    <BLK_3>420</BLK_3>
+    <BLK_4>I_0005</BLK_4>
+    <BLK_5 />
+    <BLK_6>INTERRUPTEUR BT</BLK_6>
+    <BLK_7>DEPART INTER OU DISJ / 400A - 1250A / FIXE</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>interBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>JDB BT</BLK_1>
+    <BLK_2>165</BLK_2>
+    <BLK_3>480</BLK_3>
+    <BLK_4>JDB2</BLK_4>
+    <BLK_5 />
+    <BLK_6>JDB BT</BLK_6>
+    <BLK_7>JEU DE BARRES BT</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>jdbBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>LIAISON BT</BLK_1>
+    <BLK_2>285</BLK_2>
+    <BLK_3>600</BLK_3>
+    <BLK_4>CBT_0008</BLK_4>
+    <BLK_5 />
+    <BLK_6>LIAISON</BLK_6>
+    <BLK_7>CABLE BT</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>liaison</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>LIAISON BT</BLK_1>
+    <BLK_2>495</BLK_2>
+    <BLK_3>600</BLK_3>
+    <BLK_4>CBT_0009</BLK_4>
+    <BLK_5 />
+    <BLK_6>LIAISON</BLK_6>
+    <BLK_7>CABLE BT</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>liaison</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>CHARGE BT</BLK_1>
+    <BLK_2>495</BLK_2>
+    <BLK_3>690</BLK_3>
+    <BLK_4>CH_0010</BLK_4>
+    <BLK_5 />
+    <BLK_6>CHARGE BT</BLK_6>
+    <BLK_7 />
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>chargeBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>MOTEUR BT</BLK_1>
+    <BLK_2>285</BLK_2>
+    <BLK_3>690</BLK_3>
+    <BLK_4>M_0011</BLK_4>
+    <BLK_5 />
+    <BLK_6>MOTEUR BT</BLK_6>
+    <BLK_7>MOTEUR BT CA TRIPHASE / &lt;30KW / CAGE</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>moteurBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>DISJONCTEUR MOTEUR BT</BLK_1>
+    <BLK_2>285</BLK_2>
+    <BLK_3>480</BLK_3>
+    <BLK_4>DM_0012</BLK_4>
+    <BLK_5 />
+    <BLK_6>DISJONCTEUR MOTEUR BT</BLK_6>
+    <BLK_7>DEPART MOTEUR / 1A - 63A</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>departMoteurBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>DISJONCTEUR BT</BLK_1>
+    <BLK_2>555</BLK_2>
+    <BLK_3>150</BLK_3>
+    <BLK_4>DJ_0012</BLK_4>
+    <BLK_5 />
+    <BLK_6>DISJONCTEUR BT</BLK_6>
+    <BLK_7>DEPART INTER OU DISJ / 1600A - 3200A / FIXE</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>disjBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24 />
+    <BLK_25 />
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>TRANSFORMATEUR HTA/BT-SLT TT</BLK_1>
+    <BLK_2>555</BLK_2>
+    <BLK_3>60</BLK_3>
+    <BLK_4>TR_0014</BLK_4>
+    <BLK_5>2500</BLK_5>
+    <BLK_6>TRANSFORMATEUR HTA/BT</BLK_6>
+    <BLK_7>TRANSFORMATEUR HTA/BT / &gt;1000KVA / SEC</BLK_7>
+    <BLK_8 />
+    <BLK_9 />
+    <BLK_10>_0</BLK_10>
+    <BLK_11 />
+    <BLK_12>transfoHTABT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_14 />
+    <BLK_15 />
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_19 />
+    <BLK_20 />
+    <BLK_21 />
+    <BLK_22 />
+    <BLK_23 />
+    <BLK_24>20000</BLK_24>
+    <BLK_25>410</BLK_25>
+    <BLK_26 />
+    <BLK_27 />
+    <BLK_28 />
+    <BLK_29 />
+    <BLK_30 />
+    <BLK_31 />
+    <BLK_32 />
+    <BLK_33 />
+    <BLK_34 />
+    <BLK_35 />
+    <BLK_36 />
+    <BLK_37 />
+    <BLK_38 />
+    <BLK_39 />
+    <BLK_40 />
+    <BLK_41 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_43 />
+    <BLK_44 />
+    <BLK_45 />
+    <BLK_46 />
+    <BLK_47 />
+    <BLK_48 />
+    <BLK_49 />
+    <BLK_50 />
+    <BLK_51 />
+    <BLK_52 />
+    <BLK_53 />
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <BLK>
+    <BLK_1>DISJONCTEUR BT DIFF</BLK_1>
+    <BLK_2>495</BLK_2>
+    <BLK_3>480</BLK_3>
+    <BLK_4>DJ_0014</BLK_4>
+    <BLK_6>DISJONCTEUR BT</BLK_6>
+    <BLK_7 />
+    <BLK_10>_0</BLK_10>
+    <BLK_12>disjBT</BLK_12>
+    <BLK_13>unifilaireHTABT</BLK_13>
+    <BLK_16 />
+    <BLK_17>0</BLK_17>
+    <BLK_18>0</BLK_18>
+    <BLK_37 />
+    <BLK_42>OUI</BLK_42>
+    <BLK_54>2</BLK_54>
+    <BLK_55>2</BLK_55>
+    <BLK_56>2</BLK_56>
+    <BLK_57>2</BLK_57>
+  </BLK>
+  <ELT>
+    <ELT_1>connexion</ELT_1>
+    <ELT_2>420</ELT_2>
+    <ELT_3>330</ELT_3>
+    <ELT_4>420</ELT_4>
+    <ELT_5>420</ELT_5>
+    <ELT_6 />
+    <ELT_7 />
+    <ELT_8 />
+    <ELT_9 />
+    <ELT_10>1</ELT_10>
+    <ELT_11 />
+    <ELT_12 />
+    <ELT_13 />
+    <ELT_14 />
+    <ELT_15 />
+    <ELT_16 />
+    <ELT_17 />
+    <ELT_18 />
+    <ELT_19 />
+    <ELT_20 />
+    <ELT_21 />
+    <ELT_22 />
+    <ELT_23 />
+    <ELT_24 />
+    <ELT_25 />
+  </ELT>
+  <ELT>
+    <ELT_1>connexion</ELT_1>
+    <ELT_2>510</ELT_2>
+    <ELT_3>540</ELT_3>
+    <ELT_4>510</ELT_4>
+    <ELT_5>600</ELT_5>
+    <ELT_6 />
+    <ELT_7 />
+    <ELT_8 />
+    <ELT_9 />
+    <ELT_10>1</ELT_10>
+    <ELT_11 />
+    <ELT_12 />
+    <ELT_13 />
+    <ELT_14 />
+    <ELT_15 />
+    <ELT_16 />
+    <ELT_17 />
+    <ELT_18 />
+    <ELT_19 />
+    <ELT_20 />
+    <ELT_21 />
+    <ELT_22 />
+    <ELT_23 />
+    <ELT_24 />
+    <ELT_25 />
+  </ELT>
+  <ELT>
+    <ELT_1>connexion</ELT_1>
+    <ELT_2>300</ELT_2>
+    <ELT_3>660</ELT_3>
+    <ELT_4>300</ELT_4>
+    <ELT_5>690</ELT_5>
+    <ELT_6 />
+    <ELT_7 />
+    <ELT_8 />
+    <ELT_9 />
+    <ELT_10>1</ELT_10>
+    <ELT_11 />
+    <ELT_12 />
+    <ELT_13 />
+    <ELT_14 />
+    <ELT_15 />
+    <ELT_16 />
+    <ELT_17 />
+    <ELT_18 />
+    <ELT_19 />
+    <ELT_20 />
+    <ELT_21 />
+    <ELT_22 />
+    <ELT_23 />
+    <ELT_24 />
+    <ELT_25 />
+  </ELT>
+  <ELT>
+    <ELT_1>connexion</ELT_1>
+    <ELT_2>510</ELT_2>
+    <ELT_3>660</ELT_3>
+    <ELT_4>510</ELT_4>
+    <ELT_5>690</ELT_5>
+    <ELT_6 />
+    <ELT_7 />
+    <ELT_8 />
+    <ELT_9 />
+    <ELT_10>1</ELT_10>
+    <ELT_11 />
+    <ELT_12 />
+    <ELT_13 />
+    <ELT_14 />
+    <ELT_15 />
+    <ELT_16 />
+    <ELT_17 />
+    <ELT_18 />
+    <ELT_19 />
+    <ELT_20 />
+    <ELT_21 />
+    <ELT_22 />
+    <ELT_23 />
+    <ELT_24 />
+    <ELT_25 />
+  </ELT>
+  <ELT>
+    <ELT_1>connexion</ELT_1>
+    <ELT_2>300</ELT_2>
+    <ELT_3>570</ELT_3>
+    <ELT_4>300</ELT_4>
+    <ELT_5>600</ELT_5>
+    <ELT_6 />
+    <ELT_7 />
+    <ELT_8 />
+    <ELT_9 />
+    <ELT_10>1</ELT_10>
+    <ELT_11 />
+    <ELT_12 />
+    <ELT_13 />
+    <ELT_14 />
+    <ELT_15 />
+    <ELT_16 />
+    <ELT_17 />
+    <ELT_18 />
+    <ELT_19 />
+    <ELT_20 />
+    <ELT_21 />
+    <ELT_22 />
+    <ELT_23 />
+    <ELT_24 />
+    <ELT_25 />
+  </ELT>
+  <ELT>
+    <ELT_1>libelle</ELT_1>
+    <ELT_2>745</ELT_2>
+    <ELT_3>190</ELT_3>
+    <ELT_4>745</ELT_4>
+    <ELT_5>190</ELT_5>
+    <ELT_6 />
+    <ELT_7>Icc 50KA</ELT_7>
+    <ELT_8 />
+    <ELT_9 />
+    <ELT_10>1</ELT_10>
+    <ELT_11 />
+    <ELT_12 />
+    <ELT_13 />
+    <ELT_14 />
+    <ELT_15 />
+    <ELT_16 />
+    <ELT_17 />
+    <ELT_18 />
+    <ELT_19 />
+    <ELT_20 />
+    <ELT_21 />
+    <ELT_22 />
+    <ELT_23 />
+    <ELT_24 />
+    <ELT_25 />
+  </ELT>
+  <ELT>
+    <ELT_1>libelle</ELT_1>
+    <ELT_2>600</ELT_2>
+    <ELT_3>450</ELT_3>
+    <ELT_4>600</ELT_4>
+    <ELT_5>450</ELT_5>
+    <ELT_6 />
+    <ELT_7>Icc 18,7KA</ELT_7>
+    <ELT_8 />
+    <ELT_9 />
+    <ELT_10>1</ELT_10>
+    <ELT_11 />
+    <ELT_12 />
+    <ELT_13 />
+    <ELT_14 />
+    <ELT_15 />
+    <ELT_16 />
+    <ELT_17 />
+    <ELT_18 />
+    <ELT_19 />
+    <ELT_20 />
+    <ELT_21 />
+    <ELT_22 />
+    <ELT_23 />
+    <ELT_24 />
+    <ELT_25 />
+  </ELT>
+  <ELT>
+    <ELT_1>libelle</ELT_1>
+    <ELT_2>690</ELT_2>
+    <ELT_3>120</ELT_3>
+    <ELT_4>690</ELT_4>
+    <ELT_5>120</ELT_5>
+    <ELT_7>schéma TNC</ELT_7>
+    <ELT_10>1</ELT_10>
+    <ELT_16 />
+  </ELT>
+  <ELT>
+    <ELT_1>libelle</ELT_1>
+    <ELT_2>750</ELT_2>
+    <ELT_3>480</ELT_3>
+    <ELT_4>750</ELT_4>
+    <ELT_5>480</ELT_5>
+    <ELT_7>schéma TNS</ELT_7>
+    <ELT_10>1</ELT_10>
+  </ELT>
+  <INF>
+    <INF_1>DEMO_1</INF_1>
+    <INF_2>25/10/2014</INF_2>
+    <INF_3>31/08/2016</INF_3>
+    <INF_4>A</INF_4>
+    <INF_5>00001_2</INF_5>
+    <INF_6 />
+    <INF_7 />
+    <INF_8>1</INF_8>
+    <INF_9>1</INF_9>
+    <INF_10>RESAPPLICA</INF_10>
+    <INF_11 />
+    <INF_12 />
+    <INF_13 />
+    <INF_14 />
+    <INF_15 />
+    <INF_16>0</INF_16>
+    <INF_17 />
+    <INF_18 />
+    <INF_19 />
+    <INF_20 />
+    <INF_21 />
+    <INF_22 />
+    <INF_23 />
+    <INF_24 />
+    <INF_25 />
+    <INF_26 />
+    <INF_27 />
+    <INF_28 />
+    <INF_29 />
+    <INF_30 />
+    <INF_31 />
+    <INF_32 />
+    <INF_33 />
+    <INF_34 />
+    <INF_35 />
+    <INF_36 />
+    <INF_37 />
+    <INF_38 />
+    <INF_39 />
+    <INF_40 />
+    <INF_41 />
+    <INF_42 />
+    <INF_43 />
+    <INF_44 />
+    <INF_45 />
+    <INF_46 />
+    <INF_47 />
+    <INF_48 />
+    <INF_49 />
+    <INF_50 />
+    <INF_51>1</INF_51>
+    <INF_52>1608</INF_52>
+    <INF_53>1128</INF_53>
+    <INF_54>1610</INF_54>
+    <INF_55>1130</INF_55>
+    <INF_56 />
+    <INF_57 />
+    <INF_58 />
+    <INF_59 />
+    <INF_60 />
+    <INF_61 />
+    <INF_62 />
+    <INF_63 />
+    <INF_64 />
+    <INF_65 />
+    <INF_66 />
+    <INF_67 />
+    <INF_68 />
+    <INF_69 />
+    <INF_70 />
+    <INF_71 />
+    <INF_72 />
+    <INF_73 />
+    <INF_74 />
+    <INF_75 />
+    <INF_76 />
+    <INF_77 />
+    <INF_78 />
+    <INF_79 />
+    <INF_80 />
+    <INF_81 />
+    <INF_82 />
+    <INF_83 />
+    <INF_84 />
+    <INF_85 />
+    <INF_86 />
+    <INF_87 />
+    <INF_88 />
+    <INF_89 />
+    <INF_90 />
+    <INF_91 />
+    <INF_92 />
+    <INF_93 />
+    <INF_94 />
+    <INF_95 />
+    <INF_96 />
+    <INF_97 />
+    <INF_98 />
+    <INF_99 />
+    <INF_100 />
+  </INF>
+</NewDataSet>
